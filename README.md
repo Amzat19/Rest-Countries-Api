@@ -39,5 +39,5 @@ Users should be able to:
 ## Author
 
 - Website - [Amzat](https://amzat-portfolio.netlify.app)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Amzat19)
+- Frontend Mentor - [@Amzat19](https://www.frontendmentor.io/profile/Amzat19)
 - Twitter - [@Kunmi](https://www.twitter.com/_Amzat_)
