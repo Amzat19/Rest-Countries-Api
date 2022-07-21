@@ -26,8 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Amzat19/Rest-Countries-Api)
-- Live Site URL: [Add live site URL here](https://countryy.netlify.app/)
+- Live Site URL: [Live Site](https://countryy.netlify.app/)
 
 ## My process
 
