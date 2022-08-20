@@ -3,10 +3,11 @@
 @tailwind utilities;
 
 @layer components {
-  .search > path {
+  .search>path {
     fill: hsl(0, 0%, 52%);
   }
-  .dark-search > path {
+
+  .dark-search>path {
     fill: hsl(0, 0%, 100%);
   }
 }
@@ -16,14 +17,6 @@ body {
   padding: 0;
   margin: 0;
   font-family: "Nunito Sans", sans-serif;
-}
-
-html{
-  height: 100%;
-}
-
-body {
-  min-height: 100%;
 }
 
 * {

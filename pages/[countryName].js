@@ -1,12 +1,11 @@
-import CountryDetails from "../components/CountryDetails";
-import { useRouter } from "next/router";
+import { useRouter } from 'next/router';
+import CountryDetails from '../components/CountryDetails';
 
 const CountryDetailsPage = () => {
-    const router = useRouter();
-    const countryName = router.query.countryName;
-    return (
-        <CountryDetails countryName={countryName}/>
-    )
-}
+  const router = useRouter();
+  const { countryName } = router.query;
+
+  return <CountryDetails countryName={countryName} />;
+};
 
 export default CountryDetailsPage;
