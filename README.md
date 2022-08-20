@@ -1,4 +1,4 @@
-# REST Countries API with color theme switcher solution 
+# REST Countries API with color theme switcher 
 
 ## Table of contents
 
